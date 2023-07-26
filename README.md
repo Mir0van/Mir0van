@@ -56,7 +56,7 @@
 #### Stats:
 [![codewars](https://www.codewars.com/users/rsschool_e3c2f8a34437cd28/badges/micro)](https://www.codewars.com/users/rsschool_e3c2f8a34437cd28)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mir0van)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mir0van&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mir0van&show_icons=true&count_private=true)  
 
